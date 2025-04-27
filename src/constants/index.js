@@ -220,7 +220,7 @@ const projects = [
  
     ],
     image: project2,
-    source_code_link: "https://github.com/",
+    source_code_link: "",
   },
   {
     name: "GearXpert",
@@ -241,7 +241,7 @@ const projects = [
       },
     ],
     image: gearXpert,
-    source_code_link: "https://github.com/",
+    source_code_link: "",
   },
   {
     name: "GoGroove-Ecommerce",
@@ -266,7 +266,7 @@ const projects = [
       },
     ],
     image: project3,
-    source_code_link: "https://github.com/",
+    source_code_link: "",
   },
 ];
 
