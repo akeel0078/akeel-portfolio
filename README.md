@@ -772,9 +772,6 @@ Models and Assets used in the project can be found [here](https://drive.google.c
 
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
-</a>
-=======
+
 # akeel-portfolio
 >>>>>>> d59d8419725868417f2d138f72c82a1ddf759f82
